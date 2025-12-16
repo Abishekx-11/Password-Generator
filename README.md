@@ -20,9 +20,9 @@ python password_generator.py
 ```
 ## How to use
 - Download or copy code
-- Save file with name [ To_do_list.py]
-- Run python To_do_list.py in your Terminal
-- After that, You will be shown options that you may want to perform like add_task, delete_task, show_task and mark task that yo completed
+- Save file with name [ password_generator.py]
+- Run 'python password_generator.py' in your Terminal
+- After that, You will be asked to include variety of characters , based on your choice, it will generate passwords
 - Generate as many Password as you want
 
 ## Example Usage
