@@ -58,3 +58,7 @@ Your Password strength: Strong
 - **Libraries:** `random`, `string`, `sys`
 - **Input validation:** Ensures numeric input and minimum length
 - **Character pool:** Dynamically built based on user selection
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
